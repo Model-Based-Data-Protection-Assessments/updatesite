@@ -8,5 +8,6 @@
   <children size='2'>
     <child location='gdpr-metamodel'/>
 	<child location='legalnormrules-metamodel'/>
+		<child location='tracemodel-metamodel'/>
   </children>
 </repository>
