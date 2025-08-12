@@ -9,6 +9,6 @@
     <child location='gdpr-metamodel'/>
 	<child location='legalnormrules-metamodel'/>
 		<child location='tracemodel-metamodel'/>
-<child location='gdpr2dfd-converter'/>
+<child location='dfdconverter'/>
   </children>
 </repository>
