@@ -5,10 +5,12 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502442'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='gdpr-metamodel'/>
 	<child location='legalnormrules-metamodel'/>
 		<child location='tracemodel-metamodel'/>
 <child location='dfdconverter'/>
+<child location='laf-referencemodel'/>
+
   </children>
 </repository>
